@@ -1,0 +1,29 @@
+body {
+  background-color: #131313;
+  text-align: center;
+}
+
+body #mainbutton {
+  border: none;
+  background-color: #e0e0e0;
+  font-family: consolas, sans-serif;
+}
+
+body p {
+  color: white;
+  font-family: consolas, sans-serif;
+}
+
+body button {
+  font-family: consolas, sans-serif;
+}
+
+body #buyButton {
+  border: none;
+  font-family: consolas, sans-serif;
+}
+
+body #walletAmount {
+  font-size: 3vw;
+  color: white;
+}
